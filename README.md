@@ -1,4 +1,4 @@
 # stepik_auto_tests_course
  homework for a course dedicated to autotesting
  
- link to course: [course](https://stepik.org/lesson/187065/step/7?unit=161976)
+ This repository contains homework for [autotesting course](https://stepik.org/course/575/syllabus)
